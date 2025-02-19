@@ -1,0 +1,4 @@
+# python==3.12
+pdf2zh==1.8.8
+# uninstall pdf2zh
+modelscope
